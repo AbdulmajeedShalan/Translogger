@@ -3,7 +3,7 @@ A website for logging a route journey details for small trucks transportation co
 This project was implemented for family business for his trucks transportaion company
 
 # Purpose
-   - With this website the owner of the company able to track each driver and how much he earn and keep traking of the Odometer of each truck, and as well how many company requested a delivery, and archive the invoices of each delivery request.
+   - With this website the owner of the company able to track each driver and how much he earn and keep traking of the Odometer of each truck, and as well how many company requested a delivery, and archive the invoices of each delivery request, and issue invoice to be signed by the driver to acknwloadhge all details based on these invoices the system wil calculate how much he spent on gas and how much he earn a commission.
   
 # Framework
 VB NET Framework Runs on Microsoft Visual Studio and SQL Server
