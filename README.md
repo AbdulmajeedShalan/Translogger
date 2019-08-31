@@ -18,13 +18,22 @@ this project has SQL database instance for the follwoing purpose:
  - Table for Route it contain all information about the route such as the distance from the two points, how much gas money it took, and how much commission this route gain, and keep tracking of last Odometer of each truck.
   
   
-  # Bugs
-  
-  - This project implmented in way only one user can login into it "Admin"
+# Bugs
+   - This project implmented in way only one user can login into it "Admin"
   - labling fields need to redo it again.
   
   
 
+# Date of Creation
+Mid-2015
+
+
+# Instruction
+ - VS Pro or Enterprice is installed.
+ - Reconnect the Database.
+ - Hit run and the login is.
+      - Username: Admin
+      - Password: Admin
 
 
 
