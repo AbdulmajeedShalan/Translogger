@@ -30,7 +30,6 @@ Mid-2015
 
 # Instruction
  - VS Pro or Enterprice is installed.
- - Reconnect the Database.
  - Hit run and the login is.
       - Username: Admin
       - Password: Admin
